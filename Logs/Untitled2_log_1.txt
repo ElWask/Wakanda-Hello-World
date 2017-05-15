@@ -1,0 +1,28 @@
+2017-05-15 17:51:32 [wakanda.supervisor] INFO - solution closed
+2017-05-15 17:51:32 [wakanda] INFO - Opens the solution "C:\Users\Charles\Documents\Wakanda\solutions\Untitled2\app.waSolution" for running
+2017-05-15 17:51:32 [wakanda.Untitled2.iasv] WARN - License expired. Server running in Community mode., task #8552
+2017-05-15 17:51:32 [wakanda.Untitled2] INFO - Users and groups directory opened
+2017-05-15 17:51:32 [IndexManager] INFO - Index  on Movie.ID built in 0 ms
+2017-05-15 17:51:32 [IndexManager] INFO - Index  on Superhero.ID built in 0 ms
+2017-05-15 17:51:32 [IndexManager] INFO - Index  on Superhero.movie built in 0 ms
+2017-05-15 17:51:32 [wakanda.Untitled2.back-end-superheroes] INFO - Datastore opened
+2017-05-15 17:51:32 [wakanda.Untitled2.back-end-superheroes] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-05-15 17:51:32 [wakanda.Untitled2.back-end-superheroes] INFO - "back-end-superheroes" project opened
+2017-05-15 17:51:32 [wakanda.Untitled2.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-05-15 17:51:32 [wakanda.Untitled2.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-05-15 17:51:32 [wakanda.Untitled2] INFO - "Untitled2" solution opened
+2017-05-15 17:51:32 [wakanda] INFO - Starts "Untitled2" solution
+2017-05-15 17:51:32 [wakanda.Untitled2.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-05-15 17:51:32 [wakanda.Untitled2.ServerAdmin] INFO - HTTP Server started
+2017-05-15 17:51:32 [wakanda.Untitled2.ServerAdmin] INFO - "ServerAdmin" project started
+2017-05-15 17:51:33 [wakanda.Untitled2.back-end-superheroes] INFO - HTTP Server started
+2017-05-15 17:51:33 [wakanda.Untitled2.back-end-superheroes] INFO - "back-end-superheroes" project started
+2017-05-15 17:51:33 [wakanda.Untitled2.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-05-15 17:51:33 [wakanda.Untitled2.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-05-15 17:51:33 [wakanda.Untitled2.back-end-superheroes] INFO - Executes the bootstrap file(s)
+2017-05-15 17:51:33 [wakanda.Untitled2.back-end-superheroes] INFO - Bootstrap file(s) executed
+2017-05-15 17:51:33 [wakanda.Untitled2] INFO - "Untitled2" solution started
+2017-05-15 17:51:33 [wakanda] INFO - "Untitled2" solution has been successfully opened for running (duration: 689 ms)
+2017-05-15 17:51:33 [wakanda.supervisor] INFO - solution opened
+2017-05-15 17:51:34 [IndexManager] INFO - Index  on Superhero.ID built in 10 ms
+2017-05-15 17:51:34 [IndexManager] INFO - Index  on Superhero.movie built in 0 ms
